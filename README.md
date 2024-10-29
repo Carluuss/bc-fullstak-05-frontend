@@ -1,6 +1,6 @@
 # BootPlay
 ![image](https://github.com/user-attachments/assets/df18e667-ff38-4006-b7c8-45018766c1af)
-Sobre o projeto
+Sobre o projeto: 
 BootPlay  uma plataforma de compra de albums 
 --------------------------------------------
 ## Instalação
